@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+yt-dlp
+python-dotenv
+langchain-text-splitters
+langchain-core
+langchain-chroma
+langchain-huggingface
+pydantic
